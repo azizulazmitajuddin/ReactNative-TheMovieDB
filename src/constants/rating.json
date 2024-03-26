@@ -1,0 +1,53 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/4qCqAdHcNKeAHcK8tJ8wNJZa9cx.jpg",
+    "genre_ids": [12, 28, 878],
+    "id": 11,
+    "original_language": "en",
+    "original_title": "Star Wars",
+    "overview": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
+    "popularity": 106.078,
+    "poster_path": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+    "rating": 8.5,
+    "release_date": "1977-05-25",
+    "title": "Star Wars",
+    "video": false,
+    "vote_average": 8.204,
+    "vote_count": 19801
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1XDDXPXGiI8id7MrUxK36ke7gkX.jpg",
+    "genre_ids": [28, 12, 16, 35, 10751],
+    "id": 1011985,
+    "original_language": "en",
+    "original_title": "Kung Fu Panda 4",
+    "overview": "Po is gearing up to become the spiritual leader of his Valley of Peace, but also needs someone to take his place as Dragon Warrior. As such, he will train a new kung fu practitioner for the spot and will encounter a villain called the Chameleon who conjures villains from the past.",
+    "popularity": 5768.648,
+    "poster_path": "/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg",
+    "rating": 10,
+    "release_date": "2024-03-02",
+    "title": "Kung Fu Panda 4",
+    "video": false,
+    "vote_average": 7.002,
+    "vote_count": 319
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1XDDXPXGiI8id7MrUxK36ke7gkX.jpg",
+    "genre_ids": [28, 12, 16, 35, 10751],
+    "id": 1011985,
+    "original_language": "en",
+    "original_title": "Kung Fu Panda 4",
+    "overview": "Po is gearing up to become the spiritual leader of his Valley of Peace, but also needs someone to take his place as Dragon Warrior. As such, he will train a new kung fu practitioner for the spot and will encounter a villain called the Chameleon who conjures villains from the past.",
+    "popularity": 5768.648,
+    "poster_path": "/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg",
+    "rating": 10,
+    "release_date": "2024-03-02",
+    "title": "Kung Fu Panda 4",
+    "video": false,
+    "vote_average": 7.002,
+    "vote_count": 319
+  }
+]
